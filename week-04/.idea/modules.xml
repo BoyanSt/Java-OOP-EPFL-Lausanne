@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OOP-Java-Week-04.iml" filepath="$PROJECT_DIR$/OOP-Java-Week-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devoir_01_Dragons/devoir_01_Dragons.iml" filepath="$PROJECT_DIR$/devoir_01_Dragons/devoir_01_Dragons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/devoir_02_Cuisine/devoir_02_Cuisine.iml" filepath="$PROJECT_DIR$/devoir_02_Cuisine/devoir_02_Cuisine.iml" />
+    </modules>
+  </component>
+</project>
